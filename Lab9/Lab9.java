@@ -26,6 +26,6 @@ System.out.println(name+ "Interrupted");
 class TwoThread{
 public static void main(String args[]) {
 new thread1("BMS COLLEGE OF ENGINEERING",10000,2);
-new thread1("CSE",200,10);
+new thread1("CSE",2000,10);
 }
 }
